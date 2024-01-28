@@ -1,5 +1,6 @@
 HELP.md
 server_side/aracan/src/main/resources/application.properties
+server_side/aracan/src/main/java/com/aracanclothing/aracan/utils/JwtUtil.java
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
